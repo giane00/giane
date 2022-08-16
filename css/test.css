@@ -1,0 +1,15 @@
+body { 
+	background: lightsalmon;
+ }
+h1{
+	color: deeppink;
+	font-size: 90px;
+	text-decoration: !important;
+}
+h2{
+	font-size: 30px;
+	color: blueviolet;
+}
+.small{
+	font-size: 12px;
+}
